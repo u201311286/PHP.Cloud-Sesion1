@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PHP Cloud-Sesion1
+  host: PHP-Cloud-Sesion1
+  disk_quota: 1024M
